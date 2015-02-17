@@ -1,0 +1,17 @@
+---
+- !ruby/object:Book
+  title: JS
+  author: Doni
+  category: :development
+- !ruby/object:Book
+  title: Vraptor
+  author: Lucas
+  category: :development
+- !ruby/object:Book
+  title: Funds
+  author: Fabio
+  category: :assets
+- !ruby/object:Book
+  title: Sadness
+  author: Lukanlo
+  category: :mental_stuff
