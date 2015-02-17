@@ -36,3 +36,5 @@ Collections Matchers
 
 Expectations
 	https://github.com/rspec/rspec-expectations
+
+http://code.tutsplus.com/tutorials/ruby-for-newbies-testing-with-rspec--net-21297
